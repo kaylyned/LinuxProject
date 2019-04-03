@@ -3,3 +3,5 @@ The PHP major project, created in Linux, was and a requirement of the Software D
 The project was created using both Ubuntu and Fedora and Atom, utilizing a MySQL database.
 
 It does not have its own website, as it was intended for localhost use only.
+
+ _Copywrite 2019 All Rights Reserved_
